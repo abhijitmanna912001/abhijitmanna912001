@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python Learning<br>👯 I’m looking to collaborate on Full Stack Development Projects<br>🤝 I’m looking for help with Seeking Collaborators and Assistance<br>🌱 I’m currently learning DSA, JAVA and MySql<br>💬 Ask me about ReactJs, Javascript, Python<br>📫 How to reach me abhijitmanna912001@gmail.com<br>⚡ Fun fact I'm an avid YouTube enthusiast!
+🔭 I’m currently working on Java Learning<br>👯 I’m looking to collaborate on Full Stack Development Projects<br>🤝 I’m looking for help with Seeking Collaborators and Assistance<br>🌱 I’m currently learning DSA, JAVA and MySql<br>💬 Ask me about ReactJs, Javascript, Python<br>📫 How to reach me abhijitmanna912001@gmail.com<br>⚡ Fun fact I'm an avid YouTube enthusiast!
 
 
 ## 🌐 Socials:
