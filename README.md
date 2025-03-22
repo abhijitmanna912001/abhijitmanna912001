@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-\> I'm a web developer who loves creating beautiful and functional websites. I have a passion for learning new technologies and exploring new ideas. Currently, I'm learning React Router DOM and plan to dive into keyframe animations next. > I work with: > HTML, CSS, JavaScript, TypeScript, React, and TailwindCSS. > Besides web development, I'm also a problem-solving enthusiast and actively practice Data Structures & Algorithms on platforms like GeeksforGeeks, LeetCode, and CodeChef. Always striving to improve and take on new challenges!
+\> I'm a web developer who loves creating beautiful and functional websites. I have a passion for learning new technologies and exploring new ideas. Currently, I'm learning React Router DOM and plan to dive into keyframe animations next. 
+I work with HTML, CSS, JavaScript, TypeScript, React, and TailwindCSS. Besides web development, I'm also a problem-solving enthusiast and actively practice Data Structures & Algorithms on platforms like GeeksforGeeks, LeetCode, and CodeChef. Always striving to improve and take on new challenges!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [abhijitmanna912001@gmail.com](mailto:abhijitmanna912001@gmail.com)
