@@ -1,6 +1,8 @@
 # 💫 About Me:
 🎯 Full-stack dev with a frontend edge — clean UI, scalable systems, real-time apps<br>⚛️ React, TypeScript, Tailwind, Zustand, Storybook<br>🧪 Tested UIs with Vitest & React Testing Library<br>🛠️ MERN + Socket.IO for REST & real-time backend<br>🎨 Design systems using Figma, Tints.dev, Adobe Color<br>🧠 DSA on LeetCode, GFG, Codeforces<br>🚀 Learning: design tokens, animations, architecture<br><br>
 
+<a href="https://app.daily.dev/abhijitmanna"><img src="https://api.daily.dev/devcards/v2/LbaxpD2yvAfA7I4gAUzEz.png?r=0uh" width="356" alt="Abhijit Manna's Dev Card"/></a>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhijitmanna912001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijit-manna-403973158) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhijitmanna912001@gmail.com) 
