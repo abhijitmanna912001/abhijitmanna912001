@@ -1,113 +1,70 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhijit%20Manna&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20scalable%20full-stack%20applications.&descAlignY=55" width="100%" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Abhijit+Manna+👋;Full-Stack+Developer;Building+Applications+with+React,+Node.js+%26+PostgreSQL)](https://git.io/typing-svg)
-
-</div>
-
-# 👨‍💻 About Me
-
-- 💼 Currently working as an **Analyst @ WPP Production**
-- 🌱 Learning **PostgreSQL, Prisma ORM & Backend Development**
-- 🚀 Building modern **Full-Stack Applications**
-- 💻 Practicing **Competitive Programming & Data Structures**
-- 🎯 Preparing for **Software Development Engineer (SDE)** roles
-
----
-
-# 🤝 Connect with Me
+[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhijit%20Manna&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-stack%20developer%20%7C%20Building%20scalable%20apps%20%26%20AI%20systems&descAlignY=55&descSize=18)](https://github.com/abhijitmanna912001)
 
 <p align="center">
-
-<a href="https://github.com/abhijitmanna912001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abhijit-manna-403973158/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/abhijit912001/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/abhijitraja912001">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL;Building+ContractCommander+-+AI+Contract+Risk+Analysis;Currently+exploring+System+Design+(LLD+%2F+HLD);Open+to+Frontend+%2F+Backend+%2F+Full-Stack+roles" alt="Typing SVG" />
 </p>
+
+### 👋 About Me
+
+- 🔭 Actively looking for **Frontend / Backend / Full-Stack Developer** roles (0–2 yrs) — open to Delhi NCR & remote
+- 🏗️ Built **ContractCommander** — a multi-agent AI system that analyzes contracts for risk (Commander → 5 specialist agents → Critic → scored report)
+- 💼 Recently worked as a Content Management Analyst at WPP (Microsoft account) and freelance AI Trainer (RLHF) at Outlier
+- 📚 Currently studying **System Design** — Low Level Design first, then High Level Design
+- 🌱 Comfortable across the stack: React, TypeScript, Node.js, Express, PostgreSQL, Prisma, MongoDB
 
 ---
 
-# 🛠 Tech Stack
+### 🛠 Tech Stack
+
+![](https://skillicons.dev/icons?i=react,js,ts,redux,nodejs,express,postgres,mongodb,prisma,tailwind,git,github,figma)
+
+---
+
+### 🚀 Featured Project
+
+**[ContractCommander](https://github.com/abhijitmanna912001/contractcommander)** — Multi-agent AI contract risk analysis system
+
+Built for The Orchestra hackathon (2 days, with a remote teammate). A Commander agent routes contract clauses to 5 specialist sub-agents (Liability, IP, Termination, Data/Privacy, Dispute), a Critic reviews their findings, and an Aggregator produces a 0–100 evidence-backed risk score.
+
+- Node/Express + Prisma backend, Vite/React/TypeScript frontend, npm workspaces monorepo
+- Neon (cloud Postgres), Anthropic SDK (Claude), deployed on Render
+- Solved real production issues: clause-splitting bugs, PDF null-byte extraction errors, React StrictMode double-fetch hangs, self-destructing reports for privacy
+
+---
+
+### 📂 Other Projects
+
+| Project | Description |
+|---|---|
+| [Ai-Mock-Interview](https://github.com/abhijitmanna912001/Ai-Mock-Interview) | AI-powered mock interview platform — React, Shadcn UI, Clerk, Gemini AI, Firebase |
+| [Expense-Tracker-App](https://github.com/abhijitmanna912001/Expense-Tracker-App) | Personal finance app with Firebase auth, real-time sync, wallets & analytics |
+| [Realtime-Chat-app](https://github.com/abhijitmanna912001/Realtime-Chat-app) | Real-time chat application |
+| [DSA-Problem-Solving](https://github.com/abhijitmanna912001/DSA-Problem-Solving) | DSA practice from Love Babbar's Supreme 2.0 course — GFG, LeetCode, SPOJ |
+
+---
+
+### 🤝 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhijitmanna912001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-manna-403973158/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhijit912001/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhijitraja912001)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,postgres,prisma,mongodb,tailwind,git,github,postman,vscode&perline=7"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijitmanna912001&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitmanna912001&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
-
----
-
-# 🌱 Current Focus
-
-- 📚 Learning PostgreSQL & Prisma ORM
-- ⚡ Building Full-Stack Applications
-- 🧩 Competitive Programming
-- 🚀 Preparing for SDE Roles
-
----
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhijitmanna912001&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhijitmanna912001&layout=compact&theme=transparent&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=abhijitmanna912001&theme=tokyonight&hide_border=true" />
 </p>
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=abhijitmanna912001&theme=transparent&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijitmanna912001&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" />
 </p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijitmanna912001&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 💰 Expense Tracker
-
-Personal finance application with Firebase Authentication, real-time data synchronization, wallet management, and analytics.
-
-🔗 https://github.com/abhijitmanna912001/Expense-Tracker-App
-
----
-
-### 💻 Competitive Programming
-
-Solutions to Competitive Programming problems in C++, covering algorithms, data structures, and contest practice.
-
-🔗 https://github.com/abhijitmanna912001/competitive-programming
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-</div>
+[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://github.com/abhijitmanna912001)
