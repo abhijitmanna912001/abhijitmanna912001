@@ -16,7 +16,12 @@
 
 ### 🛠 Tech Stack
 
-![](https://skillicons.dev/icons?i=react,js,ts,redux,nodejs,express,postgres,mongodb,prisma,tailwind,git,github,figma)
+![](https://skillicons.dev/icons?i=react,js,ts,redux,nodejs,express,postgres,mongodb,prisma,tailwind,docker,git,github)
+
+<p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" height="28" />
+</p>
 
 ---
 
@@ -37,9 +42,9 @@ Built for The Orchestra hackathon (2 days, with a remote teammate). A Commander 
 | Project | Description |
 |---|---|
 | [Ai-Mock-Interview](https://github.com/abhijitmanna912001/Ai-Mock-Interview) | AI-powered mock interview platform — React, Shadcn UI, Clerk, Gemini AI, Firebase |
-| [Expense-Tracker-App](https://github.com/abhijitmanna912001/Expense-Tracker-App) | Personal finance app with Firebase auth, real-time sync, wallets & analytics |
-| [Realtime-Chat-app](https://github.com/abhijitmanna912001/Realtime-Chat-app) | Real-time chat application |
-| [DSA-Problem-Solving](https://github.com/abhijitmanna912001/DSA-Problem-Solving) | DSA practice from Love Babbar's Supreme 2.0 course — GFG, LeetCode, SPOJ |
+| [roamly-ai](https://github.com/abhijitmanna912001/roamly-ai) | AI travel itinerary planner built with Gemini |
+| [Realtime-Chat-app](https://github.com/abhijitmanna912001/Realtime-Chat-app) | Real-time fullstack chat app with Socket.IO, React, Express, and MongoDB |
+| [competitive-programming](https://github.com/abhijitmanna912001/competitive-programming) | Solutions to competitive programming problems in C++ — algorithms, data structures, contest practice |
 
 ---
 
